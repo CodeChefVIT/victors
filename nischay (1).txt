@@ -1,0 +1,67 @@
+
+<html>
+<head>
+<title>SMART FARM DIARIES</title>
+</head>
+<body>
+<form>
+<p>USERNAME: <input type="password" placeholder="your mail id" ></p>
+<p>CATEGORY:
+<select>
+<option>Fruits</option>
+<option>Vegetables</option>
+<option><Dairy</option>
+</select>
+</p>
+<p><input type="submit" value="Log In"</p>
+<p>Stay Logged In: <input type="checkbox"></p>
+<iframe src="http://smartdairyinside.com/" height="2000" width="1250"></iframe>
+<p><b><u><h1>SMART FARM DIARIES</h1></u></b></p>
+<img src="gov.jpg" height="200" width="200" align="right">
+<ul>
+<li><i>Smart farming is an important topic in the dairy sector.<br><li>The use of sensors is becoming more and more common practice.</li><br><li> Many sensors that measure and monitor physical or behavioral characteristics of the animal or characteristics of the products (e.g. milk) or of the environment of the animal are on the market or are being developed.</li><br><li> Sensors are used to maximize animal and herd performance, to monitor health of individual animals and, on herd level, to timely detect problems and to help the farmer in making decisions.</li><br><li> Sensors can monitor the animals 24/7, and this enables them to detect deviation in physical or behavioral characteristics with more accuracy than a person.</i></li>
+<br>
+<table>
+<tr>
+<td>CROPS</td>
+<td>MSP</td>
+<td>MONTH</td>
+<td>SEASON</td>
+</tr>
+<tr>
+<td>MAIZE</td>
+<td>Rs.17/kg</td>
+<td>SEPTEMBER-OCTOBER</td>
+<td>KHARIF</td>
+</tr>
+<tr>
+<td>WHEAT</td>
+<td>Rs.17.35/kg</td>
+<td>FEBRAURY-MAY</td>
+<td>RABI</td>
+</tr>
+<tr>
+<td>BLACK GRAM</td>
+<td>Rs.44/kg</td>
+<td>JULY-OCTOBER</td>
+<td>KHARIF</td>
+</tr>
+<tr>
+<td>RICE</td>
+<td>Rs.54/kg</td>
+<td>JULY-OCTOBER</td>
+<td>KHARIF</td>
+</tr>
+</table>
+<hr>
+<img src="images.jpg" height="100" width="200" align="right">
+<img src="cha.jpg" height="100" width="200">
+<img src="ggg.jpg" height="100" width="200">
+<img src="ddd.jpg" height="100" width="200">
+<img src="fff.jpg" height="100" width="200">
+<img src="rrr.jpg" height="100" width="185">
+<p id="top"><a href="https://yourstory.com/2012/06/smart-farm-management-solutions-innovation-from-the-cropin-stable">Click here for more information</a></p>
+<p><a href="#top">Back to Top</a></p>
+</body>
+</html>
+
